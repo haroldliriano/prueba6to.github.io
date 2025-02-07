@@ -1,0 +1,33 @@
+#general{
+position: relative;
+    background-color: black;
+    width: 70%;
+    height: 900px;
+    margin: auto;
+}
+
+#cabeza{
+position: absolute;
+    background-color: red;
+    width: 100%;
+    height: 150px;
+    
+}
+#lado{
+    position: absolute;
+    background-color: green;
+    width: 30%;
+    height: 750px;
+    bottom: 0%;
+    
+}
+
+#cuerpo{
+    position: absolute;
+    background-color: blue;
+    width: 70%;
+    height: 750px;
+    right: 0px;
+    bottom: 0px;
+    
+}
